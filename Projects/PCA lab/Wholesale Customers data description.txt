@@ -1,0 +1,10 @@
+Fresh: annual spending (m.u.) on fresh products
+Milk: annual spending (m.u.) on milk products
+Grocery: annual spending (m.u.) on grocery products
+Frozen: annual spending (m.u.) on frozen products
+Detergents_Paper: annual spending (m.u.) on detergents and paper products
+Delicatessen: annual spending (m.u.) on delicatessen products
+Channel: customer channel (1: hotel/restaurant/cafe or 2: retail)
+Region: customer region (1: Lisbon, 2: Porto, 3: Other)
+In this data, the values for all spending are given in an arbitrary unit (m.u. = monetary unit).
+
